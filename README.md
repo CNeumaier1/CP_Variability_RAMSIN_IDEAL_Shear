@@ -22,3 +22,9 @@ or mic.bachground_tracer_100m (for 100m simulation) called mic_init.f90 then rec
 
 After the BL_dev RAMSIN simulation is finished, run the Cold_Pool Ramsin Simulation.
 
+This repository also contains the RAMS model namelists, model output and files used for figures, and python analysis scripts for the Cold Pool Trains Manuscript.
+
+The namelists are in the folder "RAMSINs_CPTrains".
+The files used to create the figures, supplementary figures, and supplementary table are in the folder "Figure_Files".
+The python scripts used to create figures and process model output are in the folder "Analysis_Scripts".
+
